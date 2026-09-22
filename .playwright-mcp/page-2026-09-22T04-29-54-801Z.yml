@@ -1,0 +1,10 @@
+- generic [ref=e2]:
+  - heading "🛒 쇼핑 리스트" [level=1] [ref=e3]
+  - generic [ref=e4]:
+    - textbox "아이템 추가..." [ref=e5]
+    - button "추가" [ref=e6] [cursor=pointer]
+  - generic [ref=e7]:
+    - generic [ref=e8]: 0개 항목 · 0개 완료
+    - button "완료 항목 삭제" [ref=e9] [cursor=pointer]
+  - list [ref=e10]:
+    - generic [ref=e11]: 아직 담긴 아이템이 없어요. 위에서 추가해보세요.
